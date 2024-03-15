@@ -1,4 +1,4 @@
-<h1> Cat and Dog Image Classifier- ML Python Project</h1>
+<h1> Cat and Dog Image Classifier - ML Python Project</h1>
 <br>
 <h2>Features</h2>
 <li>Correctly classifies images of cats and dogs at least 63% of the time</li>
