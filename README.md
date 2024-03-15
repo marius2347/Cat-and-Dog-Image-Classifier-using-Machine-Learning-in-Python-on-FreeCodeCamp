@@ -9,11 +9,6 @@
 <li>Create a model for the neural network that outputs class probabilities</li>
 <li>Use the model to predict whether a brand new image is a cat or a dog</li>
 <li>50 test images with a label showing the percentage of "sure" that the image is a cat or a dog</li>
-<li> </li>
-<li> </li>
-<li> </li>
-<li> </li>
-<li> </li>
 <h2>Acknowledgments</h2>
 
 <b> Python3: http://bit.ly/python3-certifications <b>
